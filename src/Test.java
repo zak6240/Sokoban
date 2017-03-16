@@ -11,6 +11,7 @@
 		protected int ord_player;
 		protected int ii,jj;
 		protected char tab_level[][];
+		private String Random;
 		
 		public Test(String fname)
 			throws IOException 
